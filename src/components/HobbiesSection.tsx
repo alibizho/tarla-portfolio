@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from "react";
-import { Gamepad2, Compass, Dog } from "lucide-react";
+import { Gamepad2, Volleyball, Dog } from "lucide-react";
 
 const hobbies = [
   {
@@ -9,10 +9,10 @@ const hobbies = [
       "I enjoy exploring different genres, from strategy and puzzles to story-driven adventures that take me to new worlds.",
   },
   {
-    icon: Compass,
-    title: "Trying New Activities",
+    icon: Volleyball,
+    title: "Sports",
     description:
-      "I love experimenting with creative projects or going on adventures with friends.",
+      "Lately I’ve been getting into martial arts - Brazilian jiu-jitsu. It’s way harder than it looks, but I really enjoy practicing new moves.",
   },
   {
     icon: Dog,

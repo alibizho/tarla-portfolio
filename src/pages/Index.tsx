@@ -16,25 +16,25 @@ const destinations = [
   {
     name: "United Arab Emirates",
     description:
-      "I loved exploring the modern cities with their stunning architecture and the vast golden deserts. The contrast between futuristic skyscrapers and ancient traditions was fascinating.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     imageUrl: travelUae,
   },
   {
     name: "Thailand",
     description:
-      "The beautiful beaches with crystal clear waters and the vibrant culture made this trip unforgettable. I enjoyed trying delicious street food and visiting ancient temples.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     imageUrl: travelThailand,
   },
   {
     name: "Poland",
     description:
-      "Walking through charming cobblestone streets and discovering rich history at every corner. The colorful old towns and warm people made me feel right at home.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     imageUrl: travelPoland,
   },
   {
     name: "France",
     description:
-      "From the iconic Eiffel Tower to cozy cafes, Paris was a dream. I learned a lot about art, history, and what it means to truly appreciate the little moments.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     imageUrl: travelFrance,
   },
 ];
