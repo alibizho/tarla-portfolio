@@ -43,7 +43,7 @@ const AboutSection = () => {
           </div>
 
           <div className="space-y-6 text-muted-foreground text-lg leading-relaxed">
-            <p>I’m from Turkmenistan and spent my early childhood there before moving to Kazakhstan, 
+            <p>I was born in Turkmenistan and spent my early childhood there before moving to Kazakhstan, 
               then Poland, and back to Kazakhstan. I have always been the kind of person who learns from mistakes. 
               Figuring things out and trying again has taught me patience, responsibility, and not to give up on myself.
               I love meeting new people, trying new experiences, and exploring different cultures.
