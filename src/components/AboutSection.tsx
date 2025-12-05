@@ -43,24 +43,28 @@ const AboutSection = () => {
           </div>
 
           <div className="space-y-6 text-muted-foreground text-lg leading-relaxed">
-            <p>
-              I was born in Turkmenistan and spent my early childhood there
-              before moving to Kazakhstan, then Poland, and back to Kazakhstan.
-              I love meeting new people, trying new experiences, and exploring
-              different cultures.
+            <p>I’m from Turkmenistan and spent my early childhood there before moving to Kazakhstan, 
+              then Poland, and back to Kazakhstan. I have always been the kind of person who learns from mistakes. 
+              Figuring things out and trying again has taught me patience, responsibility, and not to give up on myself.
+              I love meeting new people, trying new experiences, and exploring different cultures.
             </p>
 
             <p>
-              I've competed in English Olympiads and a few project competitions,
-              which have taught me how to solve problems and think creatively.
-              Outside of school, I enjoy playing video games, walking my dog, and
-              having fun adventures with friends.
+            I’ve competed in English Olympiads and a few project competitions, 
+            which taught me how to solve problems and think creatively. 
+            Outside of school, I enjoy playing video games, walking my dog, 
+            and having fun adventures with friends. Lately, I’ve been 
+            experimenting with jiu jitsu, origami, and 3D designing. 
+            Trying new things  helps me grow and 
+            makes my life interesting.
             </p>
 
             <p>
-              Traveling to countries like UAE, Thailand, Poland, France, and
-              Germany has given me a curiosity for the world and a love for
-              learning in new ways.
+            Traveling has been a big part of my life. 
+            I’ve visited countries like UAE, Thailand, 
+            France, Germany, and Poland, and living in 
+            different places has given me a curiosity for
+             the world and a love for learning.
             </p>
           </div>
 

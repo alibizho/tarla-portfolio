@@ -1,26 +1,36 @@
 import { useEffect, useRef, useState } from "react";
-import { Award, BookOpen, Lightbulb, Trophy } from "lucide-react";
+import { Award, BookOpen, Trophy, GraduationCap, Rocket } from "lucide-react";
 
 const achievements = [
   {
+    icon: Rocket,
+    title: "Smart Bala – StartUp Jastar",
+    description: "2nd Place - Project presentation competition among 9th graders. Astana, 2025",
+  },
+  {
     icon: BookOpen,
-    title: "English Olympiads",
-    description: "Participated and competed in multiple English language competitions",
+    title: "Republican Olympiad in English",
+    description: "Prizewinner, III Degree - Intra-school stage of the Republican Olympiad in English. School-gymnasium No. 91. Astana, 2024",
   },
   {
-    icon: Trophy,
-    title: "Project Competitions",
-    description: "Completed various project competitions at school with creative solutions",
-  },
-  {
-    icon: Lightbulb,
-    title: "Creative Projects",
-    description: "Successfully finished personal projects exploring new interests",
+    icon: GraduationCap,
+    title: "TOEFL Junior Standard Test",
+    description: "6th Grade - Overall score of 835 (Listening: 295, Language Form: 280, Reading: 260). Certified by ETS Princeton. May 2023",
   },
   {
     icon: Award,
-    title: "Problem Solving",
-    description: "Learned to think creatively and challenge myself through competitions",
+    title: "Spelling Bee Champion",
+    description: "3rd Place - Spelling Bee competition winner. Astana, February 2023",
+  },
+  {
+    icon: BookOpen,
+    title: "Intellectual English Olympiad",
+    description: "II Degree - Achieved 32 out of 35 points in the Intellectual English Olympiad among Milestone students. Astana, 2022",
+  },
+  {
+    icon: Trophy,
+    title: "Chess Tournament",
+    description: "III Place - Team chess tournament at Milestone School. Astana, 2022",
   },
 ];
 

@@ -38,6 +38,8 @@ const HeroSection = ({ name, photoUrl }: HeroSectionProps) => {
               about the world. I enjoy video games, spending time with my dog,
               trying out new activities with friends, and discovering new places
               through travel.
+
+
             </p>
             <div className="flex gap-4 pt-4">
               <a

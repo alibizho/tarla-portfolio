@@ -12,7 +12,7 @@ const hobbies = [
     icon: Compass,
     title: "Trying New Activities",
     description:
-      "I love experimenting with creative projects or going on small adventures with friends.",
+      "I love experimenting with creative projects or going on adventures with friends.",
   },
   {
     icon: Dog,

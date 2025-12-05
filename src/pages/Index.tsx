@@ -7,11 +7,10 @@ import AchievementsSection from "@/components/AchievementsSection";
 import Footer from "@/components/Footer";
 
 import portraitImage from "@/assets/portrait.jpg";
-import travelUae from "@/assets/travel-uae.jpg";
-import travelThailand from "@/assets/travel-thailand.jpg";
-import travelPoland from "@/assets/travel-poland.jpg";
-import travelFrance from "@/assets/travel-france.jpg";
-import travelGermany from "@/assets/travel-germany.jpg";
+import travelUae from "@/assets/uae.JPG";
+import travelThailand from "@/assets/thailand.JPG";
+import travelPoland from "@/assets/poland.JPG";
+import travelFrance from "@/assets/france.JPG";
 
 const destinations = [
   {
@@ -38,19 +37,13 @@ const destinations = [
       "From the iconic Eiffel Tower to cozy cafes, Paris was a dream. I learned a lot about art, history, and what it means to truly appreciate the little moments.",
     imageUrl: travelFrance,
   },
-  {
-    name: "Germany",
-    description:
-      "The fairy-tale castles and breathtaking Alps were like stepping into a storybook. German precision and beautiful nature showed me a different way of life.",
-    imageUrl: travelGermany,
-  },
 ];
 
 const Index = () => {
   return (
     <main className="min-h-screen bg-background">
       <Navigation />
-      <HeroSection name="[Your Name]" photoUrl={portraitImage} />
+      <HeroSection name="Tarlan Imangozha" photoUrl={portraitImage} />
       <AboutSection />
       <HobbiesSection />
       <TravelSection destinations={destinations} />
