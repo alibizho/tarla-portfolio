@@ -16,25 +16,25 @@ const destinations = [
   {
     name: "United Arab Emirates",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "Dubai is full of people from all over the world. Visit to Global Village let me see so many cultures in one place. I love that I got to try different foods, see traditional clothes and performances, and it made me appreciate how unique each culture really is.",
     imageUrl: travelUae,
   },
   {
     name: "Thailand",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "In Thailand, I visited markets, towns, beaches, and I tried many new foods. Life there is slower and more relaxed and seeing how people live every day helped me understand a different way of living.",
     imageUrl: travelThailand,
   },
   {
     name: "Poland",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "Poland is a very special country for me because I lived there for three years. I visited a lot of museums and learned a lot about the country's history. The people are very kind and living there was a great experience.",
     imageUrl: travelPoland,
   },
   {
     name: "France",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "I visited France for my birthday and it was amazing. I went to museums, historic streets, famous spots and I learned a lot about French history, art, and culture. Seeing everything in real life helped me understand it much better than in books and pictures.",
     imageUrl: travelFrance,
   },
 ];
